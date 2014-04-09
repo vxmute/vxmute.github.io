@@ -1,0 +1,20 @@
+{
+	"header":"vxmute's blog",
+	"subheader":"probably not that interesting",
+	"generated_by":"qt3.1415926535897932384626433832trapgirl",
+	"date":"2014",
+	"style":"t.css",
+	"template":"temp.html",
+	"outdir":"vxmute.github.io/",
+	"links":[
+		{"name":"My Twitter","link":"https://twitter.com/vxmute"},
+		{"name":"My Github","link":"https://github.com/vxmute"}
+	],
+	"articles":[
+		{
+			"title":"index",
+			"location":"text/index.txt",
+			"new_path":"index.html"
+		}
+	]
+}

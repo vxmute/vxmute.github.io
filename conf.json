@@ -5,7 +5,7 @@
 	"date":"2014",
 	"style":"t.css",
 	"template":"temp.html",
-	"outdir":"vxmute.github.io/",
+	"outdir":"",
 	"links":[
 		{"name":"My Twitter","link":"https://twitter.com/vxmute"},
 		{"name":"My Github","link":"https://github.com/vxmute"}

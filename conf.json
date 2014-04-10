@@ -15,6 +15,11 @@
 			"title":"index",
 			"location":"text/index.txt",
 			"new_path":"index.html"
+		},
+		{
+			"title":"PGP key",
+			"location":"text/key.asc",
+			"new_path":"key.html"
 		}
 	]
 }

@@ -1,0 +1,3 @@
+I am working on:
+oq - A command line client for querying the onionoo database on Tor relays/bridges - Python
+page-generation - The thing behind this site  - Python

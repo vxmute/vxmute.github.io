@@ -20,6 +20,12 @@
 			"title":"PGP key",
 			"location":"text/key.asc",
 			"new_path":"key.html"
+		},
+		{
+			"title":"Projects",
+			"location":"text/projects.txt",
+			"new_path":"projects.html"
 		}
+
 	]
 }
